@@ -19,4 +19,4 @@
 #define tiltscalefactor    8
 #define maxdistance      150 
 #define bestdistance     250 
-#define tooclose         700
+#define tooclose         710
